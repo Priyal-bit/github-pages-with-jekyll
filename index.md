@@ -2,6 +2,8 @@
 
 ## Priyal Garg
 
+![image tooltip here](/assets/images/personal_photo.jpg)
+
 ## Social Media: 
 Instagram: pr.iyal
 
