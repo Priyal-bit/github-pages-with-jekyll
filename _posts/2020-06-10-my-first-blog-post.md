@@ -1,5 +1,5 @@
 ---
-title: Priyal's Blog Post!
+title: "Priyal's Blog Post!"
 date: 2020-06-10
 ---
 
