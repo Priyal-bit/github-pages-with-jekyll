@@ -2,7 +2,9 @@
 
 ## Social Media: 
 Instagram: pr.iyal
+
 Snapchat: pwapwapwapeal
+
 Gmail: priyalgarg@gmail.com
 
 ## Brag Sheet:
