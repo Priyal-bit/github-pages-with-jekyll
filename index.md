@@ -2,7 +2,7 @@
 
 ## Priyal Garg
 
-![personal photo](/assets/images/personal_photo.jpg)
+![personal photo](/assests/images/personal_photo.jpg)
 
 ## Social Media: 
 Instagram: pr.iyal
