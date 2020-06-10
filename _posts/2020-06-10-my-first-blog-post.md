@@ -8,7 +8,7 @@ Hello! I'm Priyal. I'm 17 years old. I baked some sweet potatoes today! I usuall
 Baked Sweet Potato Recipe:
 1. Cut sweet potatoes into thin slices.
 2. Add oil.
-3. Season to taste.
+3. Season.
 4. Bake.
 
 Done!
