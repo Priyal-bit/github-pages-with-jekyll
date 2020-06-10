@@ -1,0 +1,11 @@
+Priyal's Blog Post!
+
+Hello! I'm Priyal. I'm 17 years old. I baked some sweet potatoes today! I usually hate sweet potatoes, but I promise this recipe is fantastic.
+
+Baked Sweet Potato Recipe:
+1. Cut sweet potatoes into thin slices.
+2. Add oil.
+3. Season to taste.
+4. Bake.
+
+Done!
